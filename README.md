@@ -2,14 +2,14 @@
 Code, databases and supplementary material of my analysis of moonlighting proteins
 
 # Repositories
-- Code
+## Code
 Some of the code I used for my analysis. I selected the scripts that I found more representative of my work and more interesting to share.
 The scrips uploaded here need paths to databases. You should edit the relative lines (usually at the beginning of the code) according to where you download the corresponding database.
-- Databases
+## Databases
 Some of the datasets I created for my analysis
-- Supplementary material
+## Supplementary material
 Some information and plots about the project and the challenges I met
-- References
+## References
 A selection of references about moonlighting proteins and the databases used for my analysis
 
 # Acknowledgements
