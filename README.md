@@ -13,8 +13,8 @@ Some information and plots about the project and the challenges I met
 A selection of references about moonlighting proteins and the databases used for my analysis
 
 # Acknowledgements
-Amgen Foundation for the financial support, provided through the Amgen Scholar Programme
-Prof. Kathryn Lilley (University of Cambridge, Department of Biochemistry) for hosting my project, for the stimulating interaction and for the mentorship.
-Prof. Constance Jeffrey (University of Ohio, MoonProt) for providing the MoonProt 3.0 database and for the interest in my project
-Sandra Orchard and Kalpana Panneerselvam (EBI, Intact) for the support with the IntAct database
+- Amgen Foundation: for the financial support, provided through the Amgen Scholar Programme.
+- Prof. Kathryn Lilley (University of Cambridge, Department of Biochemistry): for hosting my project, for the stimulating interaction and for the mentorship.
+- Prof. Constance Jeffrey (University of Ohio, MoonProt): for providing the MoonProt 3.0 database and for the interest in my project
+- Sandra Orchard and Kalpana Panneerselvam (EBI, Intact): for the support with the IntAct database
 
