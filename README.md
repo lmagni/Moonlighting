@@ -8,7 +8,7 @@ I selected the scripts that I found more representative of my work and more inte
 The scrips uploaded here need paths to databases. You should edit the relative lines (usually at the beginning of the code) according to where you download the corresponding database.
 ### Databases
 Some of the datasets I created for my analysis
-- moonlighting: union of manually curated databases of moonlighting proteins
+- moonlighting: list of the human reviewed (Swissprot) entries found in manually curated databases of moonlighting proteins
 - non-moonlighting: (intersection of the 2000 proteins with more publications on PubMed and the 2000 most expressed proteins) - (all entries from moonlighting protein databases and entries with more than one annotated function un Uniprot)
 
 ### Supplementary material
