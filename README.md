@@ -3,14 +3,20 @@ Code, databases and supplementary material of my analysis of moonlighting protei
 
 ## Resources
 ### Code
-Some of the code I used for my analysis. I selected the scripts that I found more representative of my work and more interesting to share.
+This repository contains some of the code I used for my analysis. 
+I selected the scripts that I found more representative of my work and more interesting to share.
 The scrips uploaded here need paths to databases. You should edit the relative lines (usually at the beginning of the code) according to where you download the corresponding database.
 ### Databases
 Some of the datasets I created for my analysis
+- moonlighting: union of manually curated databases of moonlighting proteins
+- non-moonlighting: (intersection of the 2000 proteins with more publications on PubMed and the 2000 most expressed proteins) - (all entries from moonlighting protein databases and entries with more than one annotated function un Uniprot)
+
 ### Supplementary material
 Some information and plots about the project and the challenges I met
+
 ### References
 A file with references listed below.
+
 
 ## Acknowledgements
 - Amgen Foundation: for the financial support, provided through the Amgen Scholar Programme.
@@ -20,7 +26,9 @@ A file with references listed below.
 
 
 
-## References
+
+
+# References
 A selection of references about moonlighting proteins and the databases used for my analysis
 ### Introduction to protein moonlighting
 1) Jeffery, C. J. (1999). Moonlighting proteins. Trends in Biochemical Sciences, 24(1), 8–11. https://doi.org/10.1016/S0968-0004(98)01335-8
