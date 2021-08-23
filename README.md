@@ -1,5 +1,5 @@
 # Moonlighting
-Code, databases and supplementary material of my analysis of moonlighting proteins
+Code, databases and supplementary material from my analysis of moonlighting proteins
 
 ## Resources
 ### Code
