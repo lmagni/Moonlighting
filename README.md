@@ -1,6 +1,9 @@
 # Moonlighting
 Code, databases and supplementary material from my analysis of moonlighting proteins
 
+![image](https://user-images.githubusercontent.com/64432373/193480537-4eb9e3b9-0a28-4bef-8708-6f2932dd1905.png)
+
+
 ## Resources
 ### Code
 This repository contains some of the code I used for my analysis. 
